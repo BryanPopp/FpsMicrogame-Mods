@@ -1,0 +1,2 @@
+For this run of the Microgame Mod I changed the contrast of the scene and color levels to bith darken it, but allow the reds to pop. This was done through contrast,
+saturation, and shadows being increased. These effects helped me lean into the horror aspect even more and I am quite pleased with the results.

@@ -1,0 +1,3 @@
+Alright for this run of the microgame mod I was tasked with changeing the camera and vfx elements of the game. For the camera I edited the far clippinbg to 40 so the player
+cant see as far. I aslo added a vingette and a film grain to lean further into "horror" theme of the game. As for the vfx I made the "Angry Smoke" on the enemies much bigger
+and a little longer lasting so its much more visible, and I created some vfx on my animated candle to add a little flavor to the fire.
